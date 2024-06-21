@@ -1,0 +1,15 @@
+{
+  "name": "romannumberintypelevel",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "hotscript": "^1.0.13",
+    "ts-arithmetic": "^0.1.1"
+  }
+}
